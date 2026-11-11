@@ -8,7 +8,7 @@
 *.so
 *.dylib
 storage/storage.db
-config/local.yml
+/config
 
 # Test binary, built with `go test -c`
 *.test
